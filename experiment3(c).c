@@ -1,4 +1,4 @@
-//program to calculate area and eprimeter of circle,square and rectangle using switch case.
+//program to calculate area and perimeter of circle,square and rectangle using switch case.
 #include<stdio.h>
 #include<math.h>
 void main()
